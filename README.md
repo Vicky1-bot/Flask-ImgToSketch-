@@ -1,19 +1,19 @@
 # Flask-ImgToSketch-
-A Simple Flask app ,which is used for converting images to sketch mode using OpenCv(image processing).
-### Steps to install app:
-    1. git clone    ###clone repositoty
+A Simple Flask app ,which is used for converting image to sketch mode using OpenCv(Image Processing).
+### Steps to Run app:
+    1. git clone https://github.com/Vicky1-bot/Flask-ImgToSketch-.git   ###clone repositoty
 
-    2. Cd      ### change directory 
+    2. Cd Flask-ImgToSketch  ### change directory 
 
     3. pip install Flask ###library installation
 
-     4 .Python app.py   ###Cmd for Running application
+    4 .Python app.py   ###Cmd for Running application
 
 You may see https://localhost:5000 port number ,click and view it .,it will display app screen.
 
 For peoples who don't have idea to create python environment , here it is commands for activate your environment
 
-##Enivironment setup:
+## Enivironment setup:
 
     #Install Virtualenv
 
